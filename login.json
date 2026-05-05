@@ -1,0 +1,15 @@
+{
+
+  "usuarios": [
+    {
+      "username": "Steffany",
+      "senha": "123",
+      "livros_selecionados": []
+    },
+    {
+      "username": "Kauana",
+      "senha": "123",
+      "livros_selecionados": []
+    }
+  ]
+}
