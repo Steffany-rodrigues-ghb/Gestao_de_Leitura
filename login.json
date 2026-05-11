@@ -1,10 +1,16 @@
 {
-
   "usuarios": [
     {
       "username": "Steffany",
       "senha": "123",
-      "livros_selecionados": []
+      "livros_selecionados": [
+        {
+          "id_livro": 1,
+          "lido": false,
+          "comentario": "",
+          "nota": 0
+        }
+      ]
     },
     {
       "username": "Kauana",

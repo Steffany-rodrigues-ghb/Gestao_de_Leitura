@@ -70,13 +70,8 @@
       "paginas": 251,
       "palavras_por_pagina": 300
     }
-  ],
-  "usuarios": [
-    {
-      "username": "Gabriel",
-      "senha": "123",
-      "livrosSelecionados": []
-    }
   ]
+  
+  
 }
 
