@@ -5,70 +5,80 @@
       "titulo": "O Hobbit",
       "autor": "J.R.R. Tolkien",
       "paginas": 310,
-      "palavras_por_pagina": 280
+      "palavras_por_pagina": 280,
+      "resumo" : "O Hobbit conta a história de Bilbo Bolseiro, um hobbit pacato que é recrutado pelo mago Gandalf e por um grupo de 13 anões para uma missão perigosa: recuperar o reino e o tesouro dos anões, que foram roubados pelo dragão Smaug na Montanha Solitária.Durante a jornada, Bilbo enfrenta trolls, orcs e aranhas gigantes, além de encontrar um anel mágico que o torna invisível após vencer um jogo de adivinhas com a criatura Gollum. No final, o dragão é derrotado, e os povos da Terra Média se unem na Batalha dos Cinco Exércitos. Bilbo retorna para sua casa rico, transformado e com o anel em seu bolso."
     },
     {
       "id": 2,
       "titulo": "A Pedra Filosofal",
       "autor": "J.K. Rowling",
       "paginas": 264,
-      "palavras_por_pagina": 300
+      "palavras_por_pagina": 300,
+      "resumo": "Harry Potter e a Pedra Filosofal conta a história de um garoto órfão de \n 11 anos que descobre que seus pais eram bruxos e que ele também possui poderes mágicos. Harry é resgatado de seus tios malvados para estudar na Escola de Magia e Bruxaria de Hogwarts.Lá, ele faz seus primeiros amigos verdadeiros, Rony e Hermione, e descobre que é famoso no mundo bruxo por ter sobrevivido, quando ainda era bebê, ao ataque do terrível bruxo das trevas, Lord Voldemort."
     },
     {
       "id": 3,
       "titulo": "Dom Casmurro",
       "autor": "Machado de Assis",
       "paginas": 256,
-      "palavras_por_pagina": 250
+      "palavras_por_pagina": 250,
+      "resumo": "Dom Casmurro, escrito por Machado de Assis e publicado em 1899, é um dos maiores clássicos da literatura brasileira. A história é narrada em primeira pessoa por Bento Santiago (Bentinho), já idoso e solitário, que ganhou o apelido de 'Dom Casmurro' por seu comportamento recluso e ranzinza. O objetivo de sua escrita é 'atar as duas pontas da vida' e reviver sua juventude."
     },
     {
       "id": 4,
       "titulo": "1984",
       "autor": "George Orwell",
       "paginas": 328,
-      "palavras_por_pagina": 270
+      "palavras_por_pagina": 270,
+      "resumo": "O livro mostra um futuro sombrio onde o mundo é controlado por um governo totalmente autoritário, liderado pelo Grande Irmão (Big Brother). Nesse lugar, não existe liberdade, a privacidade é zero (todos são vigiados por telas o tempo todo) e até o pensamento livre é considerado um crime."
     },
     {
       "id": 5,
       "titulo": "O Pequeno Príncipe",
       "autor": "Antoine de Saint-Exupéry",
       "paginas": 96,
-      "palavras_por_pagina": 200
+      "palavras_por_pagina": 200,
+      "resumo": "O Pequeno Príncipe, de Antoine de Saint-Exupéry, conta a história de um piloto de avião que sofre uma pane e cai no Deserto do Saara. Lá, ele conhece um menino misterioso de cabelos de ouro: um jovem príncipe que viaja pelo espaço vindo de um asteroide distante."
     },
     {
       "id": 6,
       "titulo": "Senhor dos Anéis: A Sociedade do Anel",
       "autor": "J.R.R. Tolkien",
       "paginas": 423,
-      "palavras_por_pagina": 290
+      "palavras_por_pagina": 290,
+      "resumo": "O Senhor dos Anéis: A Sociedade do Anel, de J.R.R. Tolkien, acompanha o hobbit Frodo Bolseiro, que herda de seu tio Bilbo um anel mágico extremamente poderoso. O mago Gandalf descobre que este é o 'Um Anel', a arma perfeita do Senhor Sombrio, Sauron, que deseja o objeto de volta para dominar a Terra Média."
     },
     {
       "id": 7,
       "titulo": "Capitães da Areia",
       "autor": "Jorge Amado",
       "paginas": 256,
-      "palavras_por_pagina": 260
+      "palavras_por_pagina": 260,
+      "resumo": "Capitães da Areia, de Jorge Amado, acompanha um grupo de cerca de cem meninos de rua abandonados que vivem em um trapiche (um armazém abandonado) nas praias de Salvador, na Bahia. Liderados pelo jovem Pedro Bala, o grupo sobrevive praticando pequenos furtos, golpes e traquinagens pela cidade, sendo temidos pela população e perseguidos pela polícia."
     },
     {
       "id": 8,
       "titulo": "A Revolução dos Bichos",
       "autor": "George Orwell",
       "paginas": 112,
-      "palavras_por_pagina": 230
+      "palavras_por_pagina": 230,
+      "resumo": "A Revolução dos Bichos, também de George Orwell, é uma sátira política que se passa na Granja do Solar. Cansados da exploração do dono da fazenda, o Sr. Jones, os animais liderados pelos porcos fazem uma revolução, expulsam os humanos e assumem o controle do lugar, rebatizando-o de Granja dos Bichos."
     },
     {
       "id": 9,
       "titulo": "O Alquimista",
       "autor": "Paulo Coelho",
       "paginas": 208,
-      "palavras_por_pagina": 240
+      "palavras_por_pagina": 240,
+      "resumo": "O Alquimista, de Paulo Coelho, conta a história de Santiago, um jovem pastor da Andaluzia (Espanha) que tem um sonho repetido sobre um tesouro escondido perto das Pirâmides do Egito. Decidido a seguir o que chama de sua 'Lenda Pessoal' (o seu destino na vida), ele vende suas ovelhas e parte em viagem."
     },
     {
       "id": 10,
       "titulo": "Harry Potter e a Câmara Secreta",
       "autor": "J.K. Rowling",
       "paginas": 251,
-      "palavras_por_pagina": 300
+      "palavras_por_pagina": 300,
+      "resumo":"Harry Potter e a Câmara Secreta, de J.K.R. Rowling, acompanha o segundo ano de Harry na Escola de Magia de Hogwarts. O ano começa com avisos misteriosos de um elfo doméstico chamado Dobby, que tenta impedir Harry de voltar à escola por causa de um grande perigo."
     }
   ]
   

@@ -3,6 +3,26 @@
     {
       "username": "Steffany",
       "senha": "123",
+      "senha_encerramento": "Rodrigues321",
+      "livros_selecionados": [
+        {
+          "id_livro": 1,
+          "lido": false,
+          "comentario": "",
+          "nota": 0
+        },
+        {
+          "id_livro": 6,
+          "lido": true,
+          "comentario": "É um bom livro, mas o nome é meio paia",
+          "nota": 0
+        }
+      ]
+    },
+    {
+      "username": "Kauana",
+      "senha": "123",
+      "senha_encerramento": "Alvanoz654",
       "livros_selecionados": [
         {
           "id_livro": 1,
@@ -11,11 +31,6 @@
           "nota": 0
         }
       ]
-    },
-    {
-      "username": "Kauana",
-      "senha": "123",
-      "livros_selecionados": []
     }
   ]
 }
